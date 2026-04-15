@@ -12,9 +12,9 @@ import SupportPage from './landing_pages/support/SupportPage'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
   <HomePage/>
-  <AboutPage/>
+  {/* <AboutPage/>
   <PricingPage/>
   <ProductsPage/>
-  <SupportPage/>
+  <SupportPage/> */}
   </StrictMode>,
 )
