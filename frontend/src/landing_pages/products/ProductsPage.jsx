@@ -10,12 +10,12 @@ import Footer from '../Footer'
 export default function ProductsPage(){
     return (
         <>
-        <Navbar/>
+    
         <Universe/>
         <LeftSection/>
         <RightSection/>
         <Hero/>
-        <Footer/>
+
         </>
     )
 }

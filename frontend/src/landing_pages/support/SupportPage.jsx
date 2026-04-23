@@ -8,10 +8,8 @@ import Footer from '../Footer'
 export default function Supportpage(){
     return(
         <>
-        <Navbar/>
         <Hero/>
         <CreateTicket/>
-        <Footer/>
         </>
     )
 }
