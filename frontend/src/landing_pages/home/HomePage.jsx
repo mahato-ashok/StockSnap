@@ -12,14 +12,12 @@ import OpenAccount from '../OpenAccount'
 export default function HomePage(){
     return (
        <>
-       <Navbar></Navbar>
        <Hero/>
        <Awards/>
        <Stats/>
        <Pricing/>
         <Education/>
-        <OpenAccount/>
-        <Footer/>
+        <OpenAccount/>       
        </>
        
     )
