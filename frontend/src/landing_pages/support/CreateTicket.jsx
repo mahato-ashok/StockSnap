@@ -4,7 +4,6 @@ export default function CreateTicket(){
     return(
         <div className="container">
             <div className="row mt-5 p-5 ">
-                <h3>Why its not working</h3>
             </div>
             <div className="row p-5">
                  <div className="col p-5">
