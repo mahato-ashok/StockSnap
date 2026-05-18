@@ -1,0 +1,79 @@
+.heroWrapper {
+  background-color: rgb(56, 126, 209);
+  color: white;
+  padding: 60px 80px;
+}
+
+
+.heroTop {
+  margin-bottom: 60px;
+}
+
+.topLink {
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.topLink:hover {
+  text-decoration: underline;
+}
+
+
+.heroContent {
+  min-height: 300px;
+}
+
+.searchText {
+  font-size: 1.2rem;
+  margin-bottom: 25px;
+  line-height: 1.6;
+}
+
+.searchBox {
+  width: 100%;
+  max-width: 650px;
+  padding: 16px 20px;
+  border-radius: 10px;
+  border: none;
+  outline: none;
+  font-size: 1rem;
+  color: #333;
+}
+
+
+.quickLinks {
+  margin-top: 25px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 18px;
+}
+
+.quickLinks a {
+  color: white;
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+
+.quickLinks a:hover {
+  text-decoration: underline;
+}
+
+.featureList {
+  padding-left: 20px;
+}
+
+.featureList li {
+  margin-bottom: 18px;
+  line-height: 1.6;
+}
+
+.featureList a {
+  color: white;
+  text-decoration: none;
+}
+
+.featureList a:hover {
+  text-decoration: underline;
+}
+
